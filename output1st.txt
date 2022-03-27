@@ -1,0 +1,2 @@
+Equivalent Binary Value = 0b110
+
